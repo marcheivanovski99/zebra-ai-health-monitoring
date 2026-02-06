@@ -9,10 +9,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: light
   baseUrl: /zebra-ai-health-monitoring
   logoUrl: https://app.zebra-ai.com/zebra-ai.png
-  name: Zebra AI for Fabric
-  introTitle: "**Zebra AI for Fabric Status**"
+  # name: Zebra AI for Fabric
+  # introTitle: "**Zebra AI for Fabric Status**"
   introMessage: Live uptime and incident information for Zebra AI services.
   navbar:
     - title: Status
