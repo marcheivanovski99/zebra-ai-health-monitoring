@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: light
   baseUrl: /zebra-ai-health-monitoring
-  logoUrl: https://app.zebra-ai.com/zebra-ai-2.png
-  name:  
+  logoUrl: https://app.zebra-ai.com/zebra-icon-black.png
+  name: Zebra AI Status
   # introTitle: "**Zebra AI for Fabric Status**"
   introMessage: Live uptime and incident information for Zebra AI services.
   navbar:
