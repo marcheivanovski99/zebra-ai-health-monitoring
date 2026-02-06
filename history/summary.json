@@ -22,17 +22,19 @@
     "url": "http://test.zebra-ai.com/",
     "icon": "https://icons.duckduckgo.com/ip3/test.zebra-ai.com.ico",
     "slug": "zebra-ai-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 880,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "8.53%",
+    "uptimeDay": "8.53%",
+    "uptimeWeek": "8.53%",
+    "uptimeMonth": "8.53%",
+    "uptimeYear": "8.53%",
+    "time": 900,
+    "timeDay": 900,
+    "timeWeek": 900,
+    "timeMonth": 900,
+    "timeYear": 900,
+    "dailyMinutesDown": {
+      "2026-02-06": 48
+    }
   }
 ]
